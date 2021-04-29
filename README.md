@@ -35,8 +35,26 @@ You can watch the results below or go to this [link](https://app.powerbi.com/vie
 * [Visualization](#Visualization)
 
 # [Tough Data Wrangling And Engineering](#Table-Of-Contents)
+This data needed a bit more than the usual sources, I had to do some feature engineering for the funnel and understand the vision of the people that explained me how the funnel works. Anyway you can watch the whole file by [click](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI/blob/main/LimpiaTuCanton.ipynb) I will add below some photos of the wrangling and engineering, not the purpose to explain it all.
+
+
+## Data Cleaning
+The data wasn't that dirty actually, the toughest part was on data engineering, almost any column had na's and had to drop some columns.
+
+![cleaning](https://user-images.githubusercontent.com/58957744/116607946-3e915600-a8f8-11eb-922f-db964625b8d7.png)
+
+## Feature Engineering
+Just a quick glance to the feature engineering.
+
+![fen](https://user-images.githubusercontent.com/58957744/116607944-3df8bf80-a8f8-11eb-9ead-7db3a99e937d.png)
+
 
 # [Data Analysis](#Table-Of-Contents)
+Showing the code part to answer the questions before the visualization.
+
+![datanal](https://user-images.githubusercontent.com/58957744/116607948-3e915600-a8f8-11eb-8eb8-e510cb20bc9e.png)
+
+![datanal2](https://user-images.githubusercontent.com/58957744/116607950-3f29ec80-a8f8-11eb-8fc0-4f7f075b2541.png)
 
 # [Visualization](#Table-Of-Contents)
 You can watch the report online [clicking](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
