@@ -28,4 +28,8 @@ You can watch the results below or go to this [link](https://app.powerbi.com/vie
 ![F2](https://user-images.githubusercontent.com/58957744/116601264-eb1b0a00-a8ef-11eb-9f8a-d99dec7f6e73.png)
 
 
-# [here](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
+# Table Of Contents
+* [Results]
+* [Tough Data Wrangling And Engineering]
+* [Data Analysis]
+* [Visualization]
