@@ -32,9 +32,16 @@ You can watch the results below or go the the [table of contents.](#Table-Of-Con
 
 # Table Of Contents
 * [Results](#Results-Answering-The-Questions)
+* [Tools And Libraries](#Tools-And-Libraries)
 * [Data Wrangling And Engineering](#Data-Wrangling-And-Engineering)
 * [Data Analysis](#Data-Analysis)
 * [Visualization](#Visualization)
+
+# [Tools And Libraries](#Table-Of-Contents)
+* Python 3.7
+* Pandas 1.1.3
+* Matplotlib 3.2.2
+* Power BI 2.92.943.0
 
 # [Data Wrangling And Engineering](#Table-Of-Contents)
 This data needed a bit more than the usual sources, I had to do some feature engineering for the funnel and understand the vision of the people that explained me how the funnel works. Anyway you can watch the whole file by [click](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI/blob/main/LimpiaTuCanton.ipynb) I will add below some photos of the wrangling and engineering, not the purpose to explain it all.
