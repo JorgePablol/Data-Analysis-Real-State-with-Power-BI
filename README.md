@@ -29,7 +29,7 @@ You can watch the results below or go to this [link](https://app.powerbi.com/vie
 
 
 # Table Of Contents
-* [Results]
-* [Tough Data Wrangling And Engineering]
-* [Data Analysis]
-* [Visualization]
+* [Results](#Results)
+* [Tough Data Wrangling And Engineering](#Tough-Data-Wrangling-And-Engineering]
+* [Data Analysis][#Data-Analysis]
+* [Visualization](#Visualization)
