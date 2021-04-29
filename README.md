@@ -30,11 +30,11 @@ You can watch the results below or go to this [link](https://app.powerbi.com/vie
 
 # Table Of Contents
 * [Results](#Results-Answering-The-Questions)
-* [Tough Data Wrangling And Engineering](#Tough-Data-Wrangling-And-Engineering)
+* [Data Wrangling And Engineering](#Data-Wrangling-And-Engineering)
 * [Data Analysis](#Data-Analysis)
 * [Visualization](#Visualization)
 
-# [Tough Data Wrangling And Engineering](#Table-Of-Contents)
+# [Data Wrangling And Engineering](#Table-Of-Contents)
 This data needed a bit more than the usual sources, I had to do some feature engineering for the funnel and understand the vision of the people that explained me how the funnel works. Anyway you can watch the whole file by [click](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI/blob/main/LimpiaTuCanton.ipynb) I will add below some photos of the wrangling and engineering, not the purpose to explain it all.
 
 
