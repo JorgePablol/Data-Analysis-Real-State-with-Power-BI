@@ -1,6 +1,8 @@
 # [Data Analysis Real-State with Power BI](#Table-Of-Contents)
 This is a data analysis I made for Tu Cantón a real state mexican company, the client asked me to answer 6 questions so the entire analysis goes around then more than an exploratory analysis or a data analysis for modeling. 
-You can watch the results below or go to this [link](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae) to watch the report online.
+You can watch the results below or go the the [table of contents](#Table-Of-Contents)
+
+**If you want to watch the report online go to this** [link](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae) to watch the report online.
 
 # [Results Answering The Questions](#Table-Of-Contents)
 
