@@ -34,3 +34,9 @@ You can watch the results below or go to this [link](https://app.powerbi.com/vie
 * [Data Analysis](#Data-Analysis)
 * [Visualization](#Visualization)
 
+# [Tough Data Wrangling And Engineering](#Table-Of-Contents)
+
+# [Data Analysis](#Table-Of-Contents)
+
+# [Visualization](#Table-Of-Contents)
+You can watch the report online [clicking](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
