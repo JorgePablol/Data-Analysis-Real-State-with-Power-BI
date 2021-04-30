@@ -1,11 +1,12 @@
 # [Data Analysis Real-State with Power BI](#Table-Of-Contents)
 This is a data analysis I made for Tu Cantón a real state mexican company, the client asked me to answer 6 questions so the entire analysis goes around then more than an exploratory analysis or a data analysis for modeling. 
+
 You can watch the results below or go the the [table of contents.](#Table-Of-Contents)
 
-**If you want to watch the report online go to this** [link.](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
+
 
 # [Results Answering The Questions](#Table-Of-Contents)
-
+I will add photos of the whole report this time, If you want to watch the report online go to this [link.](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
 
 ## [What is the profile for the people who finish the pre-qualifier?](#Table-Of-Contents)
 
@@ -27,7 +28,8 @@ You can watch the results below or go the the [table of contents.](#Table-Of-Con
 
 ![F](https://user-images.githubusercontent.com/58957744/116601271-ece4cd80-a8ef-11eb-9d4b-08c2a0e8bc58.png)
 
-![findings2rework](https://user-images.githubusercontent.com/58957744/116637408-7d8bcf80-a929-11eb-8ef5-5fa1640f1659.png)
+![desc](https://user-images.githubusercontent.com/58957744/116700129-0fc4bf80-a98c-11eb-99e2-81b63003b8f5.png)
+
 
 
 # Table Of Contents
