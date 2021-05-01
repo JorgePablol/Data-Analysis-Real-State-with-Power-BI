@@ -46,11 +46,15 @@ I will add photos of the whole report this time, If you want to watch the report
 * Power BI 2.92.943.0
 
 # [Data Wrangling And Engineering](#Table-Of-Contents)
-This data needed a bit more than the usual sources, I had to do some feature engineering for the funnel and understand the vision of the people that explained me how the funnel works. Anyway you can watch the whole file by [click](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI/blob/main/LimpiaTuCanton.ipynb) I will add below some photos of the wrangling and engineering, not the purpose to explain it all.
+This data needed a bit more than the usual sources, I had to do some feature engineering for the funnel and understand the vision of the people that explained me how the funnel works.
+
+Anyway you can watch the whole file by [click](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI/blob/main/LimpiaTuCanton.ipynb) I will add below some photos of the wrangling and engineering, not the purpose to explain it all.
 
 
 ## Data Cleaning
 The data wasn't that dirty actually, the toughest part was on data engineering, almost any column had na's and had to drop some columns.
+
+I will show just some parts of the code.
 
 ![cleaning](https://user-images.githubusercontent.com/58957744/116607946-3e915600-a8f8-11eb-922f-db964625b8d7.png)
 
@@ -62,6 +66,8 @@ Just a quick glance to the feature engineering.
 
 # [Data Analysis](#Table-Of-Contents)
 Showing the code part to answer the questions before the visualization.
+
+I will show just some parts of the code.
 
 ![datanal](https://user-images.githubusercontent.com/58957744/116607948-3e915600-a8f8-11eb-8eb8-e510cb20bc9e.png)
 
