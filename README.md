@@ -1,4 +1,4 @@
-# [Data Analysis Real-State with Power BI](#Table-Of-Contents)
+# [Answering Funnel Dataset Questions with Power BI](#Table-Of-Contents)
 This is a data analysis I made for Tu Cantón a real state mexican company, the client asked me to answer 6 questions so the entire analysis goes around then more than an exploratory analysis or a data analysis for modeling. 
 
 You can watch the results below or go the the [table of contents.](#Table-Of-Contents)
