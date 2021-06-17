@@ -1,3 +1,5 @@
+![logotucanton2](https://user-images.githubusercontent.com/58957744/122480022-b3e0e500-cf91-11eb-8561-4537f483d6e3.png)
+
 # [Answering Funnel Questions with Power BI](#Table-Of-Contents)
 This is a data analysis I made for Tu Cantón a real state mexican company, the client asked me to answer 6 questions so the entire analysis goes around then more than an exploratory analysis or a data analysis for modeling. 
 
