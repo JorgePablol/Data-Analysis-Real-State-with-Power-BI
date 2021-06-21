@@ -14,14 +14,12 @@ I will add photos of the whole report this time, If you want to watch the report
 
 ![Q1](https://user-images.githubusercontent.com/58957744/116601265-ebb3a080-a8ef-11eb-8505-5ea5568eb9d5.png)
 
-## [How many funnels were in september for Estado de México and Baja California?](#Table-Of-Contents)
-## [In what state did we lose the most funnels?](#Table-Of-Contents)
+## [How many funnels were in september for Estado de México and Baja California? and In what state did we lose the most funnels?](#Table-Of-Contents)
 
 ![Q2Q3](https://user-images.githubusercontent.com/58957744/116601267-ec4c3700-a8ef-11eb-9382-fb3d69d2919b.png)
 
 
-## [What proportion of users from the infonavit credit funnel, don't have enough credit points?](#Table-Of-Contents)
-## [How many unique users do more than one exercise in the pre-qualifier?](#Table-Of-Contents)
+## [What proportion of users from the infonavit credit funnel, don't have enough credit points? and How many unique users do more than one exercise in the pre-qualifier?](#Table-Of-Contents)
 
 ![Q4Q5](https://user-images.githubusercontent.com/58957744/116601269-ece4cd80-a8ef-11eb-974b-a7d0efa2b3c3.png)
 
